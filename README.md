@@ -1,8 +1,15 @@
-# 👩🏻‍💻 Giulia Rodrigues
+# 👩🏻‍💻 Olá, eu sou a Giulia! 
 
-**`Desenvolvedora FullStack em andamento`**
+**`🎓 Estudante de Desenvolvimento de Software`**
 
-Me chamo Giulia Rodrigues Daniel, tenho 22 anos e sou estudante 
+💻 Atualmente estudando HTML, CSS, JavaScript e Python
+🚀 Em busca de uma oportunidade de estágio na área de Tecnologia
+
+## Sobre mim
+
+Me chamo Giulia Rodrigues, tenho 22 anos, sou estudante de Analise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e apaixonada por tecnologia e desenvolvimento web. Estou construindo minha trajetória na programação por meio de estudos, projetos práticos e aprendizado contínuo.
+
+Meu objetivo é atuar como desenvolvedora Front-end e, futuramente, me tornar uma desenvolvedora Full Stack.
 
 <p align="left">
     <a href="https://github.com/giuliaxx?tab=repositories&sort=stargazers">
